@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MarketPlace_Reactjs/static/css/main.9a7e6709.chunk.css",
+    "main.js": "/MarketPlace_Reactjs/static/js/main.4acb204c.chunk.js",
+    "main.js.map": "/MarketPlace_Reactjs/static/js/main.4acb204c.chunk.js.map",
+    "runtime-main.js": "/MarketPlace_Reactjs/static/js/runtime-main.9a145004.js",
+    "runtime-main.js.map": "/MarketPlace_Reactjs/static/js/runtime-main.9a145004.js.map",
+    "static/js/2.a3679d9b.chunk.js": "/MarketPlace_Reactjs/static/js/2.a3679d9b.chunk.js",
+    "static/js/2.a3679d9b.chunk.js.map": "/MarketPlace_Reactjs/static/js/2.a3679d9b.chunk.js.map",
+    "index.html": "/MarketPlace_Reactjs/index.html",
+    "static/css/main.9a7e6709.chunk.css.map": "/MarketPlace_Reactjs/static/css/main.9a7e6709.chunk.css.map",
+    "static/js/2.a3679d9b.chunk.js.LICENSE.txt": "/MarketPlace_Reactjs/static/js/2.a3679d9b.chunk.js.LICENSE.txt",
+    "static/media/Login.module.sass": "/MarketPlace_Reactjs/static/media/background.a0e3ff29.jpg",
+    "static/media/checkmark.d3bdc1ac.svg": "/MarketPlace_Reactjs/static/media/checkmark.d3bdc1ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a145004.js",
+    "static/js/2.a3679d9b.chunk.js",
+    "static/css/main.9a7e6709.chunk.css",
+    "static/js/main.4acb204c.chunk.js"
+  ]
+}
